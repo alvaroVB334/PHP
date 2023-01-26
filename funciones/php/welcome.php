@@ -1,0 +1,2 @@
+<body>
+    BIENVENIDO A NUESTRA TIENDA

@@ -1,0 +1,53 @@
+
+table.pink{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    background-color: pink;
+}
+table.red{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    background-color: red;
+}
+table.green{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    background-color: green;
+}
+table.blue{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    background-color: blue;
+}
+table.beige{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    background-color: beige;
+}
+
+/*LETRAS*/
+.white{
+    color: white;
+}
+.black{
+    color: black;
+}
+.yellow{
+    color: yellow;
+}
+.brown{
+    color: brown;
+}
+.gray{
+    color:gray
+}
